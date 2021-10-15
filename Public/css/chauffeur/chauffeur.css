@@ -1,0 +1,147 @@
+body{margin-left: 112px;
+		
+	}
+
+	
+	.champ{
+		width: 360px;
+		position: absolute;
+		left: 112px;
+		top: 210px;
+	}
+
+	.champ1{
+		width: 500px;
+		position: absolute;
+		left: 470px;
+		top: 220px;
+		font-size: 20px;
+	}
+	.champ1 input{
+		border: none;
+	}
+	
+
+	
+.tab th{
+	background-color: rgba(0,128,255);margin-left: 2px;margin-right: 2px;text-decoration: none;color: white;border: none;padding:10px;font-size: 12px
+}
+.tab td{
+	margin: 8px;text-decoration: none;border: solid; border-color: rgba(0,0,0,0.1); border-width: 1px;background-color: rgb(255,255,255);
+	border-radius: 3px;padding:10px;margin: 20px;text-align: center;font-size: 18px;font-weight: 200;
+}
+
+
+.tab{
+	position: absolute;
+	left:504px;
+	top: 210px;font-size: 18px;width: 810px;
+	
+}
+
+
+.tab a{
+	text-decoration: none;padding: 10px;color: white;
+	border-radius: 4px; 
+}
+.a1{
+	background-color:rgb(251,36,68);
+}
+.a2{
+	background-color:rgb(105,184,103);
+}
+
+.nomobg{
+ 		position: absolute;
+ 		top: 48px;
+ 		left: 30px;color: red;
+ 	}
+ 	.prenomobg{
+ 		position: absolute;
+ 		top: 108px;color: red;
+ 		left: 30px;
+ 	}
+ 	.surnomobg{
+ 		position: absolute;
+ 		top: 170px;
+ 		left: 30px;color: red;
+ 	}
+ 	.mpobg{
+ 		position: absolute;
+ 		top: 230px;color: red;
+ 		left: 30px;
+ 	}
+
+ caption{
+ 		background-color: rgba(0,64,128,0.7); padding-top: 5px;padding-bottom: 5px;border-radius: 3px;color: white;text-align: center;font-size: 15px;
+ 	}
+ 	.info1{
+ 		background-color: rgb(0,64,128); padding-top: 5px;padding-bottom: 5px;border-radius: 3px;color: white;text-align: center;width: 360px;font-size: 15px;
+ 	}
+ 	.info{
+ 		background-color: rgb(0,64,128); padding-top: 5px;padding-bottom: 5px;border-radius: 3px;color: white;text-align: center;width: 498px;font-size: 15px;
+ 	}
+ 	
+.form_chauffeur{
+	border-radius: 5px;border: solid;border-color:rgb(0,128,255); background-color: white;border-width: 3px;
+}
+.nom_chauffeur{
+	font-size: 12px; margin:10px;padding: 10px;width: 300px; border-radius: 6px;border-width: 1px;
+}
+.prenom_chauffeur{
+	font-size: 12px; margin:10px;padding: 10px;width: 300px; border-radius: 6px;border-width: 1px;
+}
+.surnom_chauffeur{
+	font-size: 12px; margin:10px;padding: 10px;width: 300px; border-radius: 6px;border-width: 1px;
+}
+.motpass_chauffeur{
+	font-size: 12px; margin:10px;padding: 10px;width: 300px; border-radius: 6px;border-width: 1px;
+}
+.submit{
+	font-size: 15px;margin:16px;padding: 10px;border-radius: 6px;border-width: 1; background-color: rgb(0,128,255);width: 320px; border:none; color: white;
+}
+.fieldset_champ1{
+	border-color:rgb(0,128,255);border-radius: 5px; background-color: white;
+}
+.nom_chauffeur_solo{
+	padding: 11px;margin-left: 67px;font-size: 18px;border:solid; border-width: 1px;border-color: rgba(0,0,0,0.5);border-radius: 3px; width: 300px;margin-bottom: 5px;
+}
+.prenom_chauffeur_solo{
+	padding: 11px;margin-left: 67px;font-size: 18px;border:solid; border-width: 1px;border-color: rgba(0,0,0,0.5);border-radius: 3px; width: 300px;margin-bottom: 5px;
+}
+.surnom_chauffeur_solo{
+	padding: 11px;margin-left: 45px;font-size: 18px;border:solid; border-width: 1px;border-color: rgba(0,0,0,0.5);border-radius: 3px;width: 300px;margin-bottom: 5px;
+}
+.motpass_chauffeur_solo{
+	padding: 11px;margin-left: 4px;font-size: 18px;width: 300px;border:solid; border-width: 1px;border-color: rgba(0,0,0,0.5);border-radius: 3px;
+}
+.link_chauffEdit_view{
+	font-size: 20px;margin-left: 8px; margin-right: 20px ;margin-bottom: 25px;margin-top: 25px; padding-left: 35px;padding-right: 35px; padding-top: 5px;padding-bottom: 5px; border-radius: 5px;border-width: 1; background-color: rgb(0,64,128);width: 120px; border:none; color: white; text-decoration: none;
+}
+.link_delete_chauffeur{
+	font-size: 20px;padding: 6px;border-radius: 5px;border-width: 1; background-color: rgb(0,64,128);width: 120px; border:none; color: white; text-decoration: none; margin-right: 10px ;margin-bottom: 25px;margin-top: 25px; padding-left: 35px;padding-right: 35px; padding-top: 5px;padding-bottom: 5px;
+}
+
+.titre0{
+	background-color: rgb(0,89,179);width: 1160px;padding-top: 16px;padding-bottom: 16px;padding-left: 40px;margin-left: 1px;text-align: center;color: white;
+}
+
+.titre{
+	background-color: rgb(0,89,179);width: 760px;padding-top: 16px;padding-bottom: 16px;padding-left: 440px;margin-left: 1px;text-align: center;color: white;
+}
+.date_recherche{
+		margin-left: 190px;border-radius: 3px;
+		display: inline-flex;
+	}
+
+	.input_date{
+		color: rgb(0,98,196);padding: 3px;border-radius: 4px; border:none;margin-left: 9px; 
+	}
+
+	.submit_recherche{
+		background-color: rgb(0,128,192);color: white; border: none;
+	}
+
+	.annule{
+		width: 22px;margin-left: 5px;border-radius: 2px;
+	}

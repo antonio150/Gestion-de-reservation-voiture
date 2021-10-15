@@ -1,0 +1,61 @@
+.tab th{
+	background-color: rgba(0,128,255,0.6);margin-left: 2px;margin-right: 2px;text-decoration: none;color: white;border: none;padding:10px;font-size: 12px
+}
+.tab td{
+	margin: 8px;text-decoration: none;border: solid; border-color: rgba(0,0,0,0.1); border-width: 1px;background-color: rgb(255,255,255);border-radius: 3px;padding:12px;margin: 20px;text-align: center;font-size: 12px;font-weight: 200;
+}
+
+
+.tab{
+	position: absolute;
+	left:400px;
+	top: 190px;font-size: 18px;width: 810px;
+}
+
+.tab a{
+	text-decoration: none;padding: 10px;color: white;
+	border-radius: 4px; margin-left: 10px;
+}
+
+.a1{
+	background-color:rgb(251,36,68);
+}
+.a2{
+	background-color:rgb(105,184,103);
+}
+
+.champ1{
+		width: 500px;
+		position: absolute;
+		left: 270px;
+		top: -20px;
+		font-size: 20px;
+	}
+	
+	.champ1 input{
+		border: none;
+	}
+	caption{
+ 		background-color: rgb(0,64,128); padding-top: 5px;padding-bottom: 5px;border-radius: 3px;color: white;text-align: center;font-size: 15px;
+ 	}
+ 	.info1{
+ 		background-color: rgb(0,64,128); padding-top: 5px;padding-bottom: 5px;border-radius: 3px;color: white;text-align: center;width: 360px;font-size: 15px;
+ 	}
+ 	.info{
+ 		background-color: rgb(0,64,128); padding-top: 5px;padding-bottom: 5px;border-radius: 3px;color: white;text-align: center;
+ 	}
+ 	.titre{
+	background-color: rgb(0,89,179);width: 1160px;padding-top: 16px;padding-bottom: 16px;padding-left: 40px;margin-left: 1px;text-align: center;color: white;
+}
+.poiss_img{
+	width: 130px; height: 80px; position: relative; left: 20px;top: -150px;border-radius: 8px;border:solid; border-width: 4px;border-color: rgb(0,89,179);
+}
+.deconnect{
+	 position: absolute; left: 1090px;top: 40px;border-radius: 4px;border:solid; border-width: 4px;border-color: rgb(0,89,179); font-size: 19px; background-color: white; padding: 6px;text-decoration: none; display: inline-flex;
+}
+.logout_img{
+	width: 20px;height: 20px;margin-right: 5px;
+}
+.submit{
+	font-size: 15px;margin:16px;padding: 10px;border-radius: 6px;border-width: 1; background-color: rgb(0,64,128);width: 420px; border:none; color: white;
+}

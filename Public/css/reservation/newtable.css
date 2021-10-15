@@ -1,0 +1,110 @@
+body{margin-left: 113px;
+		
+	}
+	
+	.menu-bar{
+	position: relative;
+	top: 1px;
+	left: 1px;
+		background:  rgb(0,128,255);
+		text-align: center;
+		width: 1200px;
+
+	}
+	.menu-bar ul{
+		display: inline-flex;
+		list-style: none;
+		color:#fff;
+	}
+	.menu-bar ul li{
+		width:100px;
+		margin-left: 10px;margin-top: 0px;
+		padding:1px;border: solid;border-width: 2px;
+	}
+	.menu-bar ul li:hover{
+		background-color: rgb(0,0,155);
+	}
+	.menu-bar ul li a{
+		text-decoration: none;
+		color: white;
+	}
+
+.tab1{
+width: 580px;
+}
+.tab2{
+	margin-left: 20px;width: 580px;
+}
+
+
+	.tab1 th{
+	background-color: rgba(0,128,255,0.4);margin-left: 2px;margin-right: 2px;text-decoration: none;color: white;border: none;padding:10px;
+	}
+	.tab1 td{
+		margin: 8px;text-decoration: none;border: solid; border-color: rgba(0,0,0,0.1); border-width: 1px;border-radius: 3px;padding:2px;margin: 20px;text-align: center;color: rgba(0,0,0,0.6);background-color:rgb(255,255,255);
+	}
+	
+	.a2{
+	background-color:rgb(251,36,68);text-decoration: none;border: none;border-radius: 3px;padding:10px;text-align: center; color: white;margin: 0px;padding-left: 10px;padding-right: 10px;display: inline-block;
+}
+.a1{
+	background-color:rgb(105,184,103);text-decoration: none;border: none;border-radius: 3px;padding:10px;text-align: center; color: white;margin: 0px;padding-left: 10px;padding-right: 10px;display: inline-block;
+}
+	/*.tab2 td a{
+		text-decoration: none;border: none;background-color: rgb(117,117,255);border-radius: 3px;padding:12px;text-align: center; color: white;margin: 0px;"
+	}*/
+
+	.tab2 th{
+		background-color: rgba(0,128,255,0.4);margin-left: 2px;margin-right: 2px;text-decoration: none;color: white;border: none;padding:10px;
+	}
+	.tab2 td{
+		margin: 8px;text-decoration: none;border: solid; border-color: rgba(0,0,0,0.1); border-width: 1px;border-radius: 3px;padding:2px;margin: 20px;text-align: center;color: rgba(0,0,0,0.6);background-color:rgb(255,255,255);
+	}
+
+	.tables{
+		margin-left: 10px;
+		display: inline-flex;
+	}
+
+	.champ{
+		width: 550px;margin-left: 350px;
+		border-color: rgb(0,128,255);
+
+	}
+	.champ input{
+		margin:15px;
+		padding: 10px;border-radius: 6px;font-size: 15px;border-color: rgb(214,206,253);
+	}
+
+	caption{
+		background-color: rgb(0,64,128); width: 580px;padding-top: 10px;padding-bottom: 10px;border-radius: 5px;color: white;
+	}
+	.titre{
+	background-color: rgb(0,89,179);width: 760px ;display: inline-flex; padding-top: 16px;padding-bottom: 8px;padding-left: 440px;margin-left: 1px;text-align: center;color: white;
+}
+	.date_recherche{
+		margin-left: 200px;border-radius: 3px;
+		display: inline-flex;
+	}
+
+	.input_date{
+		color: rgb(0,98,196);padding: 3px;border-radius: 4px; border:none;margin-left: 9px; 
+	}
+
+	.submit_recherche{
+		background-color: rgb(0,128,192);color: white; border: none;
+	}
+.img_poisson{
+	width: 130px; height: 80px; position: absolute; left: 120px;top: 20px;border-radius: 8px;border:solid; border-width: 4px;border-color: rgb(0,89,179);
+}
+.deconnect{
+	 position: absolute; left: 1090px;top: 40px;border-radius: 4px;border:solid; border-width: 4px;border-color: rgb(0,89,179); font-size: 19px; background-color: white; padding: 6px;text-decoration: none; display: inline-flex;
+}
+.logout_img{
+	width: 20px;height: 20px;margin-right: 5px}
+.champ_form{
+	border-radius: 9px;border: solid;border-color:rgb(0,128,255); background-color: white;
+}
+.champ_submit{
+	background-color: rgb(0,128,255); color: white;border-radius: 4px;padding-left: 15px;padding-right: 15px;border: none;
+}

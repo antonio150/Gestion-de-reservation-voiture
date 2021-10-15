@@ -1,0 +1,62 @@
+body{
+		
+	}
+
+	.menu-bar{
+		background-color: rgb(0,128,255);
+		text-align: center;
+
+	}
+	.menu-bar ul{
+		display: inline-flex;
+		list-style: none;
+		color:#fff;
+	}
+
+	.champ{
+		border-radius: 5px;
+		border: 3px;
+		position: absolute;left: 400px;
+		width: 380px;
+		top: 100px;
+		
+	}
+
+	.nom{
+		margin:10px;
+	}
+	.prenom{
+		margin:10px;
+	}
+	.mdp{
+		margin:10px;
+	}
+.form_demandeur{
+	border-radius: 9px;border: solid;border-color:rgb(212,212,212); background-color: white;
+}
+.nom_demandeur{
+	font-size: 16px; margin:10px;padding: 10px;width: 300px; border-radius: 6px;border-width: 1px;
+}
+.prenom_demandeur{
+	font-size: 16px;margin-right: 10px;margin-top: 10px;margin-bottom: 10px;padding: 10px;width: 300px;border-radius: 6px;border-width: 1px;margin-left: 10px;
+}
+.surnom_demandeur{
+	font-size: 16px;margin-right:10px;margin-top:10px;margin-bottom:10px;padding: 10px;width: 300px;border-radius: 6px;border-width: 1px;margin-left: 10px;
+}
+.motpass_chauffeur{
+	font-size: 16px;margin:10px;padding: 10px;width: 300px;border-radius: 6px;border-width: 1px;
+}
+.btn_ajouter{
+	font-size: 20px;margin:16px;padding: 10px;border-radius: 6px;border-width: 1; background-color: rgb(0,128,255);width: 170px; border:none; color: white;text-decoration: none;
+	}
+
+	
+	.submit1{
+			font-size: 15px;margin:16px;padding: 10px;border-radius: 6px;border-width: 1; background-color: rgb(105,184,103);width: 170px; border:none; color: white;text-decoration: none;
+		}
+	.submit2{
+			font-size: 15px;margin:16px;padding: 10px;border-radius: 6px;border-width: 1; background-color: rgb(251,36,68);width: 170px; border:none; color: white;text-decoration: none;
+		}
+	.caption{
+		background-color: rgb(60,74,251);width: 380px;font-size: 20px;text-align: center;padding-top: 10px;padding-bottom: 10px;color: white;
+	}

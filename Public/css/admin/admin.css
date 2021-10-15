@@ -1,0 +1,26 @@
+body{
+		background-color: rgb(234,233,254)
+	}
+	.champ{
+		width: 360px;
+		position: absolute;
+		left: 500px;
+		top: 150px;
+		}
+		.erreur{
+			color: red;
+			position: absolute;
+			left: 15px;
+			top: 120px;
+			width: 400px;
+		}
+		.submit1{
+			font-size: 15px;margin:16px;padding: 10px;border-radius: 6px;border-width: 1; background-color: rgb(105,184,103);width: 170px; border:none; color: white;text-decoration: none;
+		}
+
+		.submit2{
+			font-size: 15px;margin:16px;padding: 10px;border-radius: 6px;border-width: 1; background-color: rgb(251,36,68);width: 170px; border:none; color: white;text-decoration: none;
+		}
+		.caption{
+		background-color: rgb(60,74,251);width: 360px;font-size: 20px;text-align: center;padding-top: 10px;padding-bottom: 10px;color: white;
+	}

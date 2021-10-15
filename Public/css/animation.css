@@ -1,0 +1,28 @@
+
+body{
+    background-image: url("../../Public/img/bateau-peche-refrigepeche.jpg");
+    background-size: 1200px 620px;
+    background-position: 68% 20%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+
+.fbody {
+
+  animation-name: example;
+  animation-duration: 2s;
+}
+
+
+/* Standard syntax */
+@keyframes example {
+  from {
+    opacity: 0;
+    transform: translate3d(100px);
+    }
+  to {
+  opacity: 1;
+    transform: translate3d(0)}
+
+}

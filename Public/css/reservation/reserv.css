@@ -1,0 +1,26 @@
+.reserv{
+		margin-left: 00px;
+	}
+
+	.tabb{
+		margin-left: -120px;
+		width: 1210px;
+	}
+	.img_poisson{
+		width: 130px; height: 80px; position: absolute; left: 120px;top: 20px;border-radius: 8px;border:solid; border-width: 4px;border-color: rgb(0,89,179);
+	}
+	.deconnect{
+		 position: absolute; left: 1090px;top: 40px;border-radius: 4px;border:solid; border-width: 4px;border-color: rgb(0,89,179); font-size: 19px; background-color: white; padding: 6px;text-decoration: none; display: inline-flex; 
+	}
+	.img_logout{
+		width: 20px;height: 20px;margin-right: 5px;
+	}
+	.date{
+		background-color: rgb(255,255,255);color: black; padding: 5px;border-radius: 3px;
+	}
+	.tabb_fieldset{
+		border-color: rgb(0,128,255);
+	}
+	.tabb_legend{
+		font-size: 20px;margin:19px;padding: 10px;border-radius: 6px;border-width: 1; background-color: rgb(0,128,255);width: 160px; border:none; color: white;
+	}

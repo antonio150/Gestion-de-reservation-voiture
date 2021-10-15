@@ -1,0 +1,8 @@
+RewriteEngine On
+
+RewriteRule ^index?$ index.php
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+ErrorDocument 404 /projet%20php/view/index.php
